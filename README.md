@@ -14,6 +14,6 @@
 # Summary
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sagarpawardev&theme=material-palenight&show_icons=true&count_private=false)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=schrosolver&layout=compact&theme=material-palenight)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpawardev&layout=compact&theme=material-palenight)
 
 
