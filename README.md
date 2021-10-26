@@ -2,7 +2,7 @@
 
 ## What I do ?
 - 👨‍💻 Backend, Frontend, Mobile Apps, Cloud
-- 💬 Ask me about Algorithms, Data Structures
+- 💬 Ask me about Algorithms, Data Structures or Random Idea
 - 😲 Discuss ideas
 - 💼 Working with Salesforce, previously SAP & Oracle
 - 📫 Reach me: [Linkedin](https://linkedin.com/in/sgrpwr)
