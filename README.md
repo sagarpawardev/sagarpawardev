@@ -6,7 +6,6 @@
 - 😲 Discuss ideas
 - 💼 Working with Salesforce, previously SAP & Oracle
 - 📫 Reach me: [Linkedin](https://linkedin.com/in/sgrpwr)
-- 😄 Pronouns: Saagar
 - ⚡ Fun fact: I might working on a new idea right now. Join me
 
 ![voila](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
